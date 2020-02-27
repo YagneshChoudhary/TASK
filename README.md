@@ -1,6 +1,6 @@
 # TASK
 <h2>Hello AltCampus</h2>
-<img scr="vizag.pic" alt="profile pic">
+<img scr="https://github.com/YagneshChoudhary/TASK/blob/master/vizag%20pic.jpg" alt="profile pic">
 <p>I am Yagnesh Choudhary</p>
 <p>1.Tell us your story?</p>
 <p>My hometown is narsinghpur(madhya pradesh),ther's four member in my family including me, my father mother sister.
