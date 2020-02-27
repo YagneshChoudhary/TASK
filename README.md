@@ -1,7 +1,8 @@
 # TASK
 <h2>Hello AltCampus</h2>
-<img scr="https://github.com/YagneshChoudhary/TASK/blob/master/vizag%20pic.jpg" alt="profile pic">
+<img scr="vizag pic.jpg" alt="profile pic">
 <p>I am Yagnesh Choudhary</p>
+<main>
 <p>1.Tell us your story?</p>
 <p>My hometown is narsinghpur(madhya pradesh),ther's four member in my family including me, my father mother sister.
   i have completed my BE in electrical and electronics branch from hitkarini college of engineering and technology(jabalpur)
@@ -20,3 +21,4 @@
   <p>My calm nature, my adaptability, dedication.</p>
   <p>7.Why do you want to join altcampus?</p>
   <p>First of all you are giving a great environment.Peace,Beauty of nature and the knowledge in same place.I am not good in interpersonal skills i think i'll learn those there with knowledge because IT wants both good knowledge+interpersonal skills ill learn both.And financially i am not in good condition and you will take fee when ill get a job that to when ill starting above 50k, this is a good deal sometimes i think this institute is result of my thoughts.</p>  
+</main>
