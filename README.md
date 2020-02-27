@@ -1,9 +1,10 @@
 # TASK
-body{background.color:blue;}
-<h2>Hello AltCampus</h2>
+div{background.color:blue;}
+<h2 style=" color:red;">Hello AltCampus</h2>
 <img scr="vizag pic.jpg" alt="profile pic">
 <p>I am Yagnesh Choudhary</p>
 <main>
+  p{ background:orange;}
 <p style=" color:red;" >1.Tell us your story?</p>
 <p>My hometown is narsinghpur(madhya pradesh),ther's four member in my family including me, my father mother sister.
   i have completed my BE in electrical and electronics branch from hitkarini college of engineering and technology(jabalpur)
