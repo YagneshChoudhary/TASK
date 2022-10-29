@@ -24,3 +24,5 @@ div{background.color:blue;}
   <p>7.Why do you want to join altcampus?</p>
   <p>First of all you are giving a great environment.Peace,Beauty of nature and the knowledge in same place.I am not good in interpersonal skills i think i'll learn those there with knowledge because IT wants both good knowledge+interpersonal skills ill learn both.And financially i am not in good condition and you will take fee when ill get a job that to when ill starting above 50k, this is a good deal sometimes i think this institute is result of my thoughts.</p>  
 </main>
+
+jai mata ki
